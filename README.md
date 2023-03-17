@@ -15,4 +15,5 @@ https://www.kinopoisk.ru/film/435/
 ![movie_db_kinopoisk_like_4](https://user-images.githubusercontent.com/103509683/225900169-059f3b1e-a2fb-4312-916d-405a156f4511.jpg)
 
 -На основе этой структуры напишем SQL код для создания таблиц для базы данных 
+
 -SQL код будем хранить в файле film_db_kinopoisk_like
